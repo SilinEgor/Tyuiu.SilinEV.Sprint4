@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SilinEV.Sprint4.Task0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SilinEV.Sprint4.Task0.V19.Lib", "Tyuiu.SilinEV.Sprint4.Task0.V19.Lib\Tyuiu.SilinEV.Sprint4.Task0.V19.Lib.csproj", "{78E31534-6A86-4FFC-9261-CBFA462D95CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SilinEV.Sprint4.Task0.V19.Tset", "Tyuiu.SilinEV.Sprint4.Task0.V19.Tset\Tyuiu.SilinEV.Sprint4.Task0.V19.Tset.csproj", "{40B001BB-78C6-48E0-8345-56CD0D17B568}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SilinEV.Sprint4.Task0.V19.Test", "Tyuiu.SilinEV.Sprint4.Task0.V19.Tset\Tyuiu.SilinEV.Sprint4.Task0.V19.Test.csproj", "{40B001BB-78C6-48E0-8345-56CD0D17B568}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
